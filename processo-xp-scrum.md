@@ -4,7 +4,7 @@
 
 ## 1. Quadro Kanban proposto
 
-**Link do GitHub Projects:** `INSERIR_AQUI_O_LINK_DO_QUADRO_APOS_CRIÁ-LO`
+**Link do GitHub Projects:** [AgileTech Solutions — Sprint 1](https://github.com/users/rafamolina1/projects/4/views/1)
 
 O quadro deve ser configurado com as seguintes colunas:
 
@@ -98,4 +98,3 @@ O incremento só é aceito na Sprint Review se cumprir a Definition of Done: có
 | **Métricas** | Velocidade, alcance da Sprint Goal e previsibilidade. | Lead time, cycle time, throughput e itens bloqueados. | A equipe observa a meta da Sprint e também os gargalos do fluxo. |
 
 Essa combinação é frequentemente chamada de Scrumban quando práticas de gestão de fluxo do Kanban complementam a cadência e os eventos do Scrum. O objetivo não é misturar cerimônias sem critério, mas preservar transparência, foco e melhoria contínua.
-
