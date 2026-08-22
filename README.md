@@ -24,7 +24,6 @@ python src/usuario_simples.py
 
 O exemplo cadastra dois usuários, realiza um login válido e lista os usuários cadastrados.
 
-## Observação sobre o GitHub Projects
+## GitHub Projects
 
-O quadro está especificado em `processo-xp-scrum.md`, com colunas, limites de trabalho em andamento, cards e critérios de aceite. Depois de publicar este projeto no GitHub, deve-se criar o Project seguindo essa especificação e substituir o campo indicado pelo endereço do quadro criado.
-
+O [quadro Kanban da AgileTech Solutions](https://github.com/users/rafamolina1/projects/4/views/1) está vinculado a esta entrega e documentado em `processo-xp-scrum.md`, com colunas, limites de trabalho em andamento, cards e critérios de aceite.
